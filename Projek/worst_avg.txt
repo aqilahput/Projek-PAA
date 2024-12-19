@@ -1,0 +1,8 @@
+n = 100: Average Case Time = 0.000005s, Worst Case Time = 0.000001s
+n = 150: Average Case Time = 0.000002s, Worst Case Time = 0.000001s
+n = 200: Average Case Time = 0.000001s, Worst Case Time = 0.000000s
+n = 250: Average Case Time = 0.000001s, Worst Case Time = 0.000001s
+n = 300: Average Case Time = 0.000001s, Worst Case Time = 0.000000s
+n = 350: Average Case Time = 0.000001s, Worst Case Time = 0.000000s
+n = 400: Average Case Time = 0.000001s, Worst Case Time = 0.000000s
+n = 500: Average Case Time = 0.000001s, Worst Case Time = 0.000000s
